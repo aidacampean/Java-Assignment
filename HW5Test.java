@@ -1,8 +1,8 @@
 /**
  * Class to test Homework 5
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Aida Campean
+ * @version 3.0
  */
 public class HW5Test
 {    
